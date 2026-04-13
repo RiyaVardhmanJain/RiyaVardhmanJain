@@ -1,16 +1,10 @@
 # Hi folks! 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=600&size=28&pause=1000&color=D4D4D8&center=true&vCenter=true&width=600&lines=Riya+Jain;Full+Stack+Web+Developer;MERN+%2B+Next.js;Building+Scalable+AI+Solutions" alt="Typing SVG" />
-</p>
-
 ---
 
 ### ⚡ About Me
 
-[cite_start]I am a **Full Stack Web Developer** focused on transforming ideas into fast, modern, and scalable applications[cite: 3, 5]. [cite_start]My approach centers on shipping clean, intuitive interfaces that bridge the gap between complex technical logic and seamless user experiences[cite: 6]. 
-
-[cite_start]Currently, I am an **Information Technology student** at Savitribai Phule Pune University (9.7 CGPA), where I specialize in building full-stack platforms that integrate AI for real-world impact[cite: 33, 34]. [cite_start]Whether it's architecting community-driven Q&A systems or engineering predictive engines, I prioritize data integrity and high-performance design[cite: 18, 23].
+I am a **Full Stack Web Developer** passionate about prototyping ideas into fast, modern, and scalable applications. My focus is on shipping clean, intuitive interfaces that bridge the gap between complex logic and great user experiences.
 
 ---
 
@@ -39,7 +33,7 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=09090b&title_color=d4d4d8&text_color=a1a1aa&icon_color=d4d4d8&border_color=27272a" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RiyaVardhmanJain&show_icons=true&theme=dark&bg_color=09090b&title_color=d4d4d8&text_color=a1a1aa&icon_color=d4d4d8&border_color=27272a" alt="GitHub Stats" />
 </p>
 
 ---
